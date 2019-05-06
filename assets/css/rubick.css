@@ -2701,12 +2701,7 @@ a.carousel-control span.fa {
 .section-we-are-1 p {
 	color: #777777;
 }
-.section-we-are-1 .avatar {
-	height: 200px;
-	width: 200px;
-	border-radius: 100px;
-	transform: rotate(-90deg);
-}
+
 .section-we-are-1 #carousel .carousel-inner {
 	max-height: 400px;
 }
@@ -4262,4 +4257,10 @@ body.noscroll {
 	footer .row div:first-child .title {
 		margin-top: 0;
 	}
+}
+#avatar {
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+	transform: rotate(-90deg);
 }
